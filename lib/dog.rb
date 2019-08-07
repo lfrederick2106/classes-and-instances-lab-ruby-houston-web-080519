@@ -1,1 +1,1 @@
-Dog.new 
+Dog.new
