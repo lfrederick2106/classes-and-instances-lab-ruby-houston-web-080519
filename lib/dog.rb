@@ -1,1 +1,2 @@
-Dog.new
+class Dog 
+  
